@@ -1,3 +1,3 @@
 # COMP_596
 
-Some of my projects completed in my Network Science course at McGill.
+Some of the projects I completed in my Network Science course at McGill.
